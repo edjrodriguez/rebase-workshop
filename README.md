@@ -6,7 +6,7 @@ CONTENTS OF THIS FILE
 
  * Introduction
  * Requirements
- * Recommended modules
+ * Recommended modu // now I am making edits 
  * Installation
  * Configuration
  * Troubleshooting
